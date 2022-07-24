@@ -1,0 +1,19 @@
+Payload list 
+
+SQL Injection Payload
+https://github.com/payloadbox/sql-injection-payload-list
+
+command-injection-payload
+https://github.com/payloadbox/command-injection-payload-list
+
+open-redirect-payload
+https://github.com/payloadbox/open-redirect-payload-list
+
+xxe-injection-payload
+https://github.com/payloadbox/xxe-injection-payload-list
+
+rfi-lfi-payload
+https://github.com/payloadbox/rfi-lfi-payload-list
+
+xss-payload
+https://github.com/payloadbox/xss-payload-list
